@@ -1,0 +1,4 @@
+Motocicletta,V001,AB123CD,Fiat,Panda,4
+Furgone,V002,EF456GH,Ford,Fiesta,5
+Automobile,V003,IJ789KL,Toyota,Yaris,5
+Automobile,V003,IJ789FL,Toyota,Ibrida,5
